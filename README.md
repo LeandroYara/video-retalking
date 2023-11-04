@@ -46,9 +46,6 @@
 ## Results in the Wild （contains audio）
 https://user-images.githubusercontent.com/4397546/224310754-665eb2dd-aadc-47dc-b1f9-2029a937b20a.mp4
 
-
-
-
 ## Environment
 ```
 git clone https://github.com/vinthony/video-retalking.git
@@ -87,8 +84,6 @@ You can also control the expression by adding the following parameters:
 ```--exp_img```: Pre-defined expression template. The default is "neutral". You can choose "smile" or an image path.
 
 ```--up_face```: You can choose "surprise" or "angry" to modify the expression of upper face with [GANimation](https://github.com/donydchen/ganimation_replicate).
-
-
 
 ## Citation
 
